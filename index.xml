@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sinijtraktor</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <en>7552b552f8d14b726743522bdf21a8d34775464af17845c81981fbc19084b020</en>
@@ -27,17 +27,17 @@
   <exercise number="2">
     <scale>major</scale>
     <bpm>120</bpm>
-    <lowestNote>1</lowestNote>
-    <tonalities>9</tonalities>
+    <lowestNote>5</lowestNote>
+    <tonalities>10</tonalities>
     <video name="2.mp4" size="1484230" type="video/mp4">a90f7764c0b9fa770d1b00f63b0a52e8562420ed70e0121ea6b636dfa97d5b0a</video>
     <notes>
-      <note number="1" values="1" ticks="224" durationTicks="324" ppq="192" velocity="0.219"/>
-      <note number="2" values="18" ticks="560" durationTicks="189" ppq="192" velocity="0.224"/>
-      <note number="3" values="18" ticks="384" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="4" values="18" ticks="576" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="5" values="18" ticks="768" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="6" values="18" ticks="960" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="7" values="18" ticks="1152" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="1" values="5" ticks="0" durationTicks="97" ppq="192" velocity="0.902"/>
+      <note number="2" values="38" ticks="95" durationTicks="97" ppq="192" velocity="0.919"/>
+      <note number="3" values="38" ticks="192" durationTicks="92" ppq="192" velocity="0.922"/>
+      <note number="4" values="38" ticks="289" durationTicks="95" ppq="192" velocity="0.949"/>
+      <note number="5" values="48" ticks="386" durationTicks="96" ppq="192" velocity="1"/>
+      <note number="6" values="28" ticks="481" durationTicks="94" ppq="192" velocity="1"/>
+      <note number="7" values="18" ticks="579" durationTicks="100" ppq="192" velocity="1"/>
     </notes>
   </exercise>
   <exercise number="3">
