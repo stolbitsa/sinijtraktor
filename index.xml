@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sinijtraktor</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <en>7552b552f8d14b726743522bdf21a8d34775464af17845c81981fbc19084b020</en>
@@ -137,7 +137,7 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
-    <video name="9.mp4" size="1606026" type="video/mp4">933452e0d29ca8f11e4dd8107fe5de463e461e11830dcdfd1b94d95d559f3460</video>
+    <video name="m1.mp4" size="1321878" type="video/mp4">c6483e33dcef93bd530a29449b3623f99622b1ddf98498f1385a2bc535bb7feb</video>
     <notes>
       <note number="1" values="1" ticks="175" durationTicks="151" ppq="192" velocity="0.354"/>
       <note number="2" values="18" ticks="362" durationTicks="358" ppq="192" velocity="0.366"/>
@@ -145,6 +145,7 @@
       <note number="4" values="1,18" ticks="191" durationTicks="192" ppq="96" velocity="0.913"/>
       <note number="5" values="1,18" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="6" values="1,18" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="7" values="1,18" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="10">
@@ -152,7 +153,38 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="10.mp4" size="1055702" type="video/mp4">143206183ad1bfef0de8a81a0b20543e7685c0bbe4a37e5890b88e8afcc4af08</video>
+    <video name="m2 - 6.mp4" size="825481" type="video/mp4">61adb9eed52cf82827d113f72c92c14d138b6ab0f7280297d27b0b15b69076f2</video>
+    <notes>
+      <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+      <note number="5" values="1,18" ticks="384" durationTicks="95" ppq="96" velocity="0.921"/>
+      <note number="6" values="1,18" ticks="480" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="11">
+    <scale>major</scale>
+    <bpm>120</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="m3-7.mp4" size="1088396" type="video/mp4">a0bb825df6ca52680aa86a5b4a5dbb08ac99daf23ca748ed77075b43e788adc2</video>
+    <notes>
+      <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+      <note number="5" values="1,18" ticks="384" durationTicks="95" ppq="96" velocity="0.921"/>
+      <note number="6" values="1,18" ticks="480" durationTicks="95" ppq="96" velocity="0.921"/>
+      <note number="7" values="1,18" ticks="576" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="12">
+    <scale>major</scale>
+    <bpm>120</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="m4-5.mp4" size="1418421" type="video/mp4">ec5476847c9b1ef707defcc4c87c93ab99efba5ef26015fd6c0f426341914142</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -161,7 +193,7 @@
       <note number="5" values="1,18" ticks="384" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
-  <exercise number="11">
+  <exercise number="13">
     <scale>major</scale>
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
