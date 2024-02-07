@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sinijtraktor</repo>
-  <version>v1.0.13</version>
+  <version>v1.0.14</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <en>7552b552f8d14b726743522bdf21a8d34775464af17845c81981fbc19084b020</en>
@@ -136,16 +136,16 @@
     <scale>major</scale>
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>3</tonalities>
+    <tonalities>10</tonalities>
     <video name="m1.mp4" size="1321878" type="video/mp4">c6483e33dcef93bd530a29449b3623f99622b1ddf98498f1385a2bc535bb7feb</video>
     <notes>
-      <note number="1" values="1" ticks="175" durationTicks="151" ppq="192" velocity="0.354"/>
-      <note number="2" values="18" ticks="362" durationTicks="358" ppq="192" velocity="0.366"/>
-      <note number="3" values="1,18" ticks="191" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="4" values="1,18" ticks="191" durationTicks="192" ppq="96" velocity="0.913"/>
-      <note number="5" values="1,18" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="6" values="1,18" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="7" values="1,18" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="1" values="1" ticks="113" durationTicks="73" ppq="192" velocity="0.945"/>
+      <note number="2" values="1" ticks="209" durationTicks="64" ppq="192" velocity="0.953"/>
+      <note number="3" values="1" ticks="303" durationTicks="65" ppq="192" velocity="0.945"/>
+      <note number="4" values="1" ticks="402" durationTicks="78" ppq="192" velocity="0.953"/>
+      <note number="5" values="5" ticks="494" durationTicks="50" ppq="192" velocity="0.937"/>
+      <note number="6" values="5" ticks="587" durationTicks="55" ppq="192" velocity="0.945"/>
+      <note number="7" values="5" ticks="685" durationTicks="138" ppq="192" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="10">
